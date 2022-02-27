@@ -20,4 +20,4 @@ How can computer science help me in reaching my goals?
     if I dont get into game development and stick to developing software the basics we used in development here can be used in any software development environment. 
       
 
-# CS-330n 
+# CS-330 
